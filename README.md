@@ -1,6 +1,10 @@
 # Emoji Generator
 
+Demo: https://diogofgr.github.io/emoji-generator/
+
 Start with this boilerplate [EmojiGenerator - workshop](https://codepen.io/diogofgr/pen/PvdXeM "A CodePen by diogofgr")
+
+## Instructions:
 
 1. Store the necessary DOM elements in variables
 Find the generate `<button>`, the two `<select>`s and the `<h1>` and store them in 4 variables.
